@@ -1,0 +1,1 @@
+This project endeavors to contribute to the advancement of real-time language translation technology by presenting a comprehensive framework designed to facilitate instant and accurate translation across a spectrum of languages
